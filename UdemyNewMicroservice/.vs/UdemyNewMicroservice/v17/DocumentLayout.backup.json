@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\options\\optionext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\options\\optionext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\options\\mongooption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\options\\mongooption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\repositories\\categoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\repositories\\categoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\repositories\\courseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\repositories\\courseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\repositories\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\repositories\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\features\\courses\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\features\\courses\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\features\\courses\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\features\\courses\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\features\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\features\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|c:\\users\\yigit\\desktop\\udemykurs\\udemynewmicroservice\\udemynewmicroservice.catalog.api\\udemynewmicroservice.catalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AC4B6014-6D0F-4DB7-8536-785A2365ABD7}|UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.csproj|solutionrelative:udemynewmicroservice.catalog.api\\udemynewmicroservice.catalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OptionExt.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Options\\OptionExt.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Options\\OptionExt.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Options\\OptionExt.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Options\\OptionExt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T00:12:17.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoOption.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Options\\MongoOption.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Options\\MongoOption.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Options\\MongoOption.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Options\\MongoOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T00:09:29.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Program.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T21:59:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\appsettings.Development.json",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T00:06:22.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Repositories\\CategoryEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Repositories\\CategoryEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Repositories\\CategoryEntityConfiguration.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Repositories\\CategoryEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T00:01:34.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Repositories\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:40:46.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Repositories\\CourseEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Repositories\\CourseEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Repositories\\CourseEntityConfiguration.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Repositories\\CourseEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:56:16.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Repositories\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Repositories\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Repositories\\BaseEntity.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Repositories\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:18:58.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Features\\Courses\\Feature.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Features\\Courses\\Feature.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Features\\Courses\\Feature.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Features\\Courses\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:35:35.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Features\\Courses\\Course.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Features\\Courses\\Course.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Features\\Courses\\Course.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Features\\Courses\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:28:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAALUAAAAAAAAAAAAhwMkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-01T23:27:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Features\\Categories\\Category.cs",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\Features\\Categories\\Category.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\Features\\Categories\\Category.cs",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\Features\\Categories\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:26:39.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-01T22:13:09.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-02-01T22:07:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UdemyNewMicroservice.Catalog.API.http",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.http",
+              "RelativeDocumentMoniker": "UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.http",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\udemyKurs\\UdemyNewMicroservice\\UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.http",
+              "RelativeToolTip": "UdemyNewMicroservice.Catalog.API\\UdemyNewMicroservice.Catalog.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-01T22:43:53.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

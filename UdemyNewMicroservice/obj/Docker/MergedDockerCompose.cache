@@ -1,0 +1,19 @@
+name: dockercompose10899306864880341422
+services:
+  udemynewmicroservice.catalog.api:
+    build:
+      context: C:\Users\yigit\Desktop\udemyKurs\UdemyNewMicroservice
+      dockerfile: UdemyNewMicroservice.Catalog.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: udemynewmicroservicecatalogapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose10899306864880341422_default
